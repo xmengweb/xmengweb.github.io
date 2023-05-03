@@ -1,19 +1,17 @@
 ---
-layout: '../../layouts/MarkdownPost.astro'
-title: '用 iPhone 14 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光'
+layout: "../../layouts/MarkdownPost.astro"
+title: "用 iPhone 14 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光"
 pubDate: 2035-09-01
-description: '用 iPhone 14 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光'
-author: 'Apple Newsroom'
+description: "用 iPhone 14 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光"
+author: "Apple Newsroom"
 cover:
-    url: 'https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_iPhone-14-Pro-Max-with-the-Main-Camera-by-Xiaobei-Fuzhou_12192022_Full-Bleed-Image.jpg.xlarge_2x.jpg'
-    square: 'https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_iPhone-14-Pro-Max-with-the-Main-Camera-by-Xiaobei-Fuzhou_12192022_Full-Bleed-Image.jpg.xlarge_2x.jpg'
-    alt: 'cover'
-tags: ["新闻稿", "Apple", "iPhone 14", "摄影"] 
-theme: 'dark'
+  url: "https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_iPhone-14-Pro-Max-with-the-Main-Camera-by-Xiaobei-Fuzhou_12192022_Full-Bleed-Image.jpg.xlarge_2x.jpg"
+  square: "https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_iPhone-14-Pro-Max-with-the-Main-Camera-by-Xiaobei-Fuzhou_12192022_Full-Bleed-Image.jpg.xlarge_2x.jpg"
+  alt: "cover"
+tags: ["新闻稿", "Apple", "iPhone 14", "摄影"]
+theme: "dark"
 featured: true
 ---
-
-
 
 ![小北 使用 iPhone 14 Pro 4800 万像素主摄于福州拍摄。|wide](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_iPhone-14-Pro-Max-with-the-Main-Camera-by-Xiaobei-Fuzhou_12192022_Full-Bleed-Image.jpg.xlarge_2x.jpg)
 
@@ -43,11 +41,9 @@ iPhone 14 Pro 和 iPhone 14 Pro Max 上搭载的 Pro 级摄像头系统挑战 iP
 
 ![Derrick Zhang 使用 iPhone 14 Pro 4800 万像素主摄于上海拍摄 ProRAW 照片。|inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-in-48MP-ProRAW-by-Jamie-Shanghai_12192022_big.jpg.large_2x.jpg)
 
-
 ![小北 使用 iPhone 14 Pro 4800 万像素主摄于福州拍摄 ProRAW 照片。|inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-Max-in-48MP-ProRAW-by-Xiaobei-Fuzhou_12192022_inline.jpg.large_2x.jpg)
 
 加上超广角和长焦摄像头一起，iPhone 14 Pro 现在支持 0.5 倍、1 倍、2 倍和 3 倍共计四个变焦选项 ，使用户无需牺牲画面质量，即可在拍摄照片和视频时拥有更多取景选项。丰富的焦距范围可以轻松应对多种场景，足之所至，即成佳作。四合一像素传感器还支持 2 倍长焦选项，利用该传感器正中的 1200 万像素拍摄全分辨率照片和 4K 视频，无需数码变焦。该选项能够以常用焦距带来光学品质成像，对于人像模式等功能来说非常实用。
-
 
 ![赵华鹏 使用 iPhone 14 Pro Max 四个变焦选项于三亚拍摄。](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_05x_12192022_big.jpg.large_2x.jpg)
 
@@ -58,9 +54,7 @@ iPhone 14 Pro 和 iPhone 14 Pro Max 上搭载的 Pro 级摄像头系统挑战 iP
 自适应原彩闪光灯经过全面重新设计，采用九粒 LED 灯珠阵列，会根据用户选择的照片焦距更改闪光模式，使拍摄对象始终处于最佳光线中。与上一代相比，全新闪光灯亮度提升可达 2 倍，光线均匀度提升可达 3 倍。
 此外，全新原深感摄像头配备更快的光圈，让低光条件下照片视频更美丽细致，并支持自动对焦功能。
 
-
 ![小北 使用 iPhone 14 Pro 自适应原彩闪光灯于福州拍摄。](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Pro-with-the-Adaptive-True-Tone-flash-by-Xiaobei-Fuzhou_12192022_big.jpg.large_2x.jpg)
-
 
 ![Derrick Zhang 使用 iPhone 14 Plus 前置原深感摄像头于上海拍摄。|inline](https://www.apple.com.cn/newsroom/cn/images/product/iphone/lifestyle/Apple_Shot-on-iPhone-14-models_Shot-on-iPhone-14-Plus-with-the-front-TrueDepth-camera-by-Derrick-Shanghai_12192022_inline.jpg.large_2x.jpg)
 
