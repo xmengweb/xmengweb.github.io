@@ -14,12 +14,12 @@ function pipeline() {
       visit(tree, 'element', (node, index) => {
         if (node.tagName === 'p' && node.children[0].tagName === 'img') {
           node.tagName = 'figure';
-          
+
           let img = node.children[0];
           let sign = md5(img.properties.src);
           let data = img.properties.alt.split("|");
           let alt = data[0];
-          let size = "big";
+          let size = "inline";
           if (data.length > 1) {
             size = data[1];
           }
@@ -73,12 +73,12 @@ function pipeline() {
                       type: 'element',
                       tagName: 'div',
                       properties: { className: ['image-caption'] },
-                      children: [
-                        {
-                          type: 'text',
-                          value: alt
-                        }
-                      ]
+                      // children: [
+                      //   {
+                      //     type: 'text',
+                      //     value: alt
+                      //   }
+                      // ]
                     }
                   ]
                 }
@@ -102,7 +102,7 @@ function pipeline() {
     () => (tree) => {
       for (let i = 0; i < tree.children.length; i++) {
         let node = tree.children[i];
-        if (node.type === "element" && ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', "ul", "ol","blockquote"].includes(node.tagName)) {
+        if (node.type === "element" && ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', "ul", "ol", "blockquote"].includes(node.tagName)) {
 
           let next = tree.children[i + 1];
           let nodes = [node];
